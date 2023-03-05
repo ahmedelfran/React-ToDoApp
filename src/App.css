@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #46529d;
+  color: #fff;
+}
+.container {
+  width: 60%;
+  margin: 10% auto;
+}
+.listItems {
+  background: #fff;
+  color: #46529d;
+}
+.listItems p{
+  margin: 0;
+  text-align: center;
+  padding: 30px 0;
+}
+.listItems span{
+  display: inline-block;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+  border: 0.4px solid #ccc;
+}
+.listItems span.title{
+  background: #2ebaee;
+  color: #fff;
+}
+.listItems span.name, 
+form input[type=text] {
+  width: 50%;
+}
+.listItems span.age, 
+form input[type=number] {
+  width: 30%;
+}
+.listItems span.action, 
+form input[type=submit] {
+  width: 20%;
+}
+.listItems span.icon {
+  color: red;
+  font-size: 28px;
+  cursor: pointer;
+}
+form input {
+  padding: 10px;
+  background: #ebebeb;
+  border: transparent;
+  border: 0.4px solid #ccc;
+}
+form input[type=submit] {
+  background: #2ebaee;
+  border: 0.4px solid #2ebaee;
+  color: #fff;
+  cursor: pointer;
+}
