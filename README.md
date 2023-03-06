@@ -69,9 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # TODO_App_React
-# TODO_App_React
 #� �T�O�D�O�_�A�p�p�_�R�e�a�c�t�
 �
-�# React_todoApp
-# React_todoApp
-# React_todoApp
+
